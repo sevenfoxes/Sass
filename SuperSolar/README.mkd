@@ -1,0 +1,1 @@
+Modded version of Solarized. Includes improved sass support. Requires upgraded sass module
